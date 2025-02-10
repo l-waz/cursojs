@@ -6,19 +6,6 @@ function Aprovado(){
 }
 
 
-function mensagemConsole(){
-    console.log('O botão foi clicado!');
-}
-
-function alertaJava(){
-    alert('Aprendendo a não passar raiva com  JavaScript');
-}
-
-function cidadePreferida(){
-    let cidade = prompt('Informe o nome de uma cidade que você gostou muito de visitar.');
-    alert(`Quando eu estive em ${cidade} lembrei de você.`);
-}
-
 function resultadoSoma(){
     let numero1 = parseInt(prompt('Informe um número.'));
     let numero2 = parseInt(prompt('Informe um número.'));
