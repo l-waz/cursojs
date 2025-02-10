@@ -1,5 +1,5 @@
 let titulo = document.querySelector('h1');
-titulo.innerHTML = 'Lógica da Programação';
+titulo.innerHTML = 'Aula de Lógica da Programação';
 
 function Aprovado(){
         alert(`Hoje você não precisa estudar para o vestibular, você foi aprovado em Direito na UFPR, meus parabéns`);
